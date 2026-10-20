@@ -1,3 +1,4 @@
+
 from lingotto_fiere import LingottoFiere
 
 def menu():

@@ -1,3 +1,4 @@
+
 class LingottoFiere:
     def __init__(self, nome):
         """Inizializza gli attributi e le strutture dati"""
